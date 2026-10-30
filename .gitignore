@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars
+.env
+.env.*
+node_modules/
+.wrangler/
+*.log
